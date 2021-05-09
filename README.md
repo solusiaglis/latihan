@@ -8,3 +8,4 @@ baris lagi
 
 ## baris yang baru
 file index nya aku delete, nyoba.
+lalala.
